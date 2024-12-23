@@ -43,6 +43,8 @@ Nowthat we have the allocation of the funds suggested and the risk and annual re
 
 ![image](https://github.com/user-attachments/assets/983d65ec-44a5-4775-a148-b29d468b5c9d)
 
+#  Situation 2: Decreases in Annual Yield
+
 In today’s current economy, there runs a possibility that a fund may choose to lower their yield due to inflation or other economic-related reasons. For example, should the Alpha fund revise
 their yield down from 18% to 17.5%, we would see as a result that although the allocation of all three funds and the risk amount do not change (from figure 4), the returns have decreased. The investment return’s value would decrease by $1,200, pushing the previous investment returns of $91,200 down to $90,000. Please see figure 6 for the possible changes that may occur if the annual yield were to be revised down to 17.5%
 
